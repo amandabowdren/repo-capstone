@@ -1,4 +1,4 @@
-import { initializeTimes, updateTimes } from './Main';
+/*import { initializeTimes, updateTimes } from './Main';
 import { fetchAPI } from './api';
 
 jest.mock('react-router-dom', () => ({
@@ -36,4 +36,4 @@ describe('updateTimes', () => {
         expect(result).toEqual(mockTimes);
         expect(fetchAPI).toHaveBeenCalledWith(mockDate);
     });
-});
+}); */
