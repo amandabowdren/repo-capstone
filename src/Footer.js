@@ -26,7 +26,7 @@ function Footer() {
                 {/* Contact Info */}
                 <div className="footer-contact">
                     <h4>Contact</h4>
-                    <p>123 Lemon Lane, Tucson, AZ</p>
+                    <p>123 Lemon Lane, Chicago, IL</p>
                     <p>(555) 123-4567</p>
                     <p>contact@littlelemon.com</p>
                 </div>

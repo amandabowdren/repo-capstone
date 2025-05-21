@@ -4,7 +4,7 @@ function BookingForm({ availableTimes, dispatch, submitForm }) {
     const [date, setDate] = useState('');
     const [time, setTime] = useState('');
     const [guests, setGuests] = useState(1);
-    const [occasion, setOccasion] = useState('Birthday');
+    const [occasion, setOccasion] = useState('Select an Occasion');
     const [formValid, setFormValid] = useState(false);
 
     useEffect(() => {
